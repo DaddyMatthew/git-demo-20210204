@@ -8,7 +8,7 @@
 * git +命令 --help 查看某个命令的帮助文档  
 * git --version 查看Git的版本  
 * git init 生成空的本地仓库  
-* git add 将文件添加到暂存区   
+* git add readme.md 将文件添加到暂存区   
 * 初次commit之前，需要配置用户邮箱及用户名，使用以下命令：  
 git config --global user.email "you@example.com"  
 git config --global user.name "Your Name"
