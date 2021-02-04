@@ -16,5 +16,6 @@ git config --global user.name "Your Name"
 * git commit 将暂存区的文件提交到本地仓库
 * git remote 用于管理远程仓库
 * git push -u origin master 往origin仓库的master分支提交变更
+* git clone 从远程仓库下载变更
 
    
